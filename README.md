@@ -3,8 +3,11 @@ This project demonstrates an end-to-end machine learning pipeline to detect frau
 
 📁 Dataset
 Source: Kaggle Credit Card Fraud Detection Dataset {https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud}
+
 Features: 30 numerical features (PCA-transformed)
+
 Target: Class (1 = Fraud, 0 = Legitimate)
+
 Format: CSV compressed inside .zip
 
 Model Pipeline :
